@@ -1,0 +1,9 @@
+C:\Users\Nikita\Desktop\ВИВТ\Работы однокурсников\Гладун\2000\Системное программирование 2, 4-5\SaveLog\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\Nikita\Desktop\ВИВТ\Работы однокурсников\Гладун\2000\Системное программирование 2, 4-5\SaveLog\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Nikita\Desktop\ВИВТ\Работы однокурсников\Гладун\2000\Системное программирование 2, 4-5\SaveLog\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Nikita\Desktop\ВИВТ\Работы однокурсников\Гладун\2000\Системное программирование 2, 4-5\SaveLog\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\ВИВТ\Работы однокурсников\Гладун\2000\Системное программирование 2, 4-5\SaveLog\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\ВИВТ\Работы однокурсников\Гладун\2000\Системное программирование 2, 4-5\SaveLog\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\ВИВТ\Работы однокурсников\Гладун\2000\Системное программирование 2, 4-5\SaveLog\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\ВИВТ\Работы однокурсников\Гладун\2000\Системное программирование 2, 4-5\SaveLog\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\Nikita\Desktop\ВИВТ\Работы однокурсников\Гладун\2000\Системное программирование 2, 4-5\SaveLog\Library\obj\Debug\netcoreapp3.1\Library.pdb
